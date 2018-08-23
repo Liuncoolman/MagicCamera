@@ -4,4 +4,4 @@ Real-time Filter Camera&VideoRecorder And ImageEditor With Face Beauty For Andro
 
 因为原工程AndroidStudio环境下不能浏览本地图库，所以整理了下原有的工程，在AndroidStudio 3.1.4正常运行。谢谢wuhaoyu1990分享！
 
-运行效果：
+
